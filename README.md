@@ -1,3 +1,3 @@
 # Hacklytics 2023
 
-### Members: Joseph, Natalia, Rudro
+### Members: Joseph, Natalia, Rudro, Jeongwon
